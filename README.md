@@ -20,14 +20,14 @@ software:-  Microsoft Excel
 
 
 
-Solution
-
-\---
+## Solution
 
 1. open [*semrush*](https://www.semrush.com/analytics/keywordmagic/)
 2. insert search keyword according to said topic , select country , find keyword
-3. view the list and select best according to use case and type in **excel** in two different lists
-**on-Page off-page**
+3. view the list and select best according to use case and take a screenshot
+4. open chatgpt and ask ti to convet it inot an excel table/tables
+5. open **excel and paste** in two different lists
+**on-Page off-page based on what you see fit**
 
 
 
@@ -113,15 +113,13 @@ and cick on Content design email button
 
 •	Influencer Identification: Utilize Heepify or similar discovery platforms to evaluate creator alignment with sustainable values and audience engagement metrics.
 
-•	Trend \& Keyword Research: Leverage Instagram's native search and analytics to audit niche-specific hashtags and community discourse.
-
 •	Project Management: Organize details of creators in Microsoft Excel.
 
 •	Creative Asset Development: Construct visual brand narratives through Canva to ensure aesthetic consistency.
 
 Use
 
-websites :- Heepify , Instagram ,
+websites :- Heepify
 
 Software:-  Microsoft Excel ,(or website) Canva
 
@@ -134,6 +132,7 @@ Software:-  Microsoft Excel ,(or website) Canva
 1. go to [heepsy](https://go.heepsy.com/creators?network=instagram)
 2. Search for creators as per provided topics
 3. create a list of suitable candidates in excel and make it look like an outreach tracker images would be attached in a folder
+use chatgpt as needed
 4. in canva create a pamphlet for your product its should not look similar to anyone else
 
 
@@ -162,9 +161,9 @@ Use Canva software(or website)
 
 ## **Solution**
 
+use templates dont create something from scratch
 
-
-**is it necessary some example images will be attached**
+**some example images will be attached**
 
 
 
@@ -197,7 +196,7 @@ Use the google analytics demo account propse on Microsoft word
 
 3\. explore those pages and be prepared to explain what is it
 
-
+4\. use chatgpt to get the proposals and paste them in word
 
 
 
@@ -223,24 +222,24 @@ Use Local WP software
 
 1. open **local WP** software installed locally
 2. click **Create a new site**
-3. **click continue** 
+3. **click continue**
 4. add site name based on your choice
 5. keep environment preferred > continue
 6. username password set it whatever you wish > add site
 7. wait till it loads then turn on one click admin
-8. click wp admin button near top right 
+8. click wp admin button near top right
 9. on left pane click plugins > add plugin
-10. search for **elementor** > download the first result also download **royal addons for elementor** 
-11. activate the plugins after download (it takes time be patient) after activating the plugin launches itself so return to plugins > add plugins >search for elementor and activate the second plugin royal addons for elementor 
+10. search for **elementor** > download the first result also download **royal addons for elementor**
+11. activate the plugins after download (it takes time be patient) after activating the plugin launches itself so return to plugins > add plugins >search for elementor and activate the second plugin royal addons for elementor
 12. when the royal addons for elementor launches choose a **unique free template** and import it(wait patiently for it to complete)
-13. return to plugins > add plugins > search social media search buttons and download \& activate it 
-14. it asks 3 simple questions 
-1. for 1st just open the dropdown scroll down and save
-2. for 2nd same 
-3. select *Floating over your website's pages* for position your choice scroll and save 
-15. after these 3 questions there are more optional questions skip them and click on **save all settings**
-16. click on the top left side **home** logo
-17. done
+13. return to plugins > add plugins > search social media search buttons and download \& activate it
+14. it asks 3 simple questions
+15. for 1st just open the dropdown scroll down and save
+16. for 2nd same
+17. select *Floating over your website's pages* for position your choice scroll and save
+18. after these 3 questions there are more optional questions skip them and click on **save all settings**
+19. click on the top left side **home** logo
+20. done
 
 
 
