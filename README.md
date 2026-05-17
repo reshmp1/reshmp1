@@ -192,11 +192,16 @@ Use the google analytics demo account propse on Microsoft word
 
 ##### &#x09;**google analytics demo account**
 
-&#x09;**or** go to [GA web only](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/a54516992p213025502/reports/intelligenthome) and [GA web and app](https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/a54516992p153293282/reports/intelligenthome) use that fake account for login
+&#x09;**or** go to [GA]([https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/a54516992p213025502/reports/intelligenthome](https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article)) and scroll dow and open the highlighted links in the photo
 
-3\. explore those pages and be prepared to explain what is it
+<img width="1087" height="890" alt="Screenshot 2026-05-17 191140" src="https://github.com/user-attachments/assets/a2ee1f43-02a3-4e78-a66b-933bcd449298" />
 
-4\. use chatgpt to get the proposals and paste them in word
+
+3\. use that fake account for login
+
+4\. explore those pages and be prepared to explain what is it
+
+5\. use chatgpt to get the proposals and paste them in word
 
 
 
