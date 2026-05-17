@@ -192,7 +192,7 @@ Use the google analytics demo account propse on Microsoft word
 
 ##### &#x09;**google analytics demo account**
 
-&#x09;**or** go to [GA]([https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/a54516992p213025502/reports/intelligenthome](https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article)) and scroll dow and open the highlighted links in the photo
+&#x09;**or** go to [GA](https://support.google.com/analytics/answer/6367342?hl=en#zippy=%2Cin-this-article) and scroll dow and open the highlighted links in the photo
 
 <img width="1087" height="890" alt="Screenshot 2026-05-17 191140" src="https://github.com/user-attachments/assets/a2ee1f43-02a3-4e78-a66b-933bcd449298" />
 
